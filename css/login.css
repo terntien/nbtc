@@ -1,0 +1,55 @@
+/* 
+.login{
+    padding: 20px;
+    padding-bottom: 50px;
+    min-height: 100% !important;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(156, 155, 155, 0.199);
+} */
+.container-fluid{
+    background-image: url('../admin/assets/img/index.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* opacity: 0.5; */
+    width: 100% ;
+    min-height: 100% ;
+    height: 1000px;
+    opacity: 0.8;
+    
+}
+h4 {
+    padding-top: 30px;
+}
+h2{
+    padding-top: 35%;
+}
+button.btn{
+    width: 100%;
+    margin-top: 10%;
+}
+
+form {
+    padding: 35px 40px 25px 40px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    
+}
+#map {
+    height: 100%;
+}
+/* .footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+} */

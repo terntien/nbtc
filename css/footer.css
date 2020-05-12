@@ -1,0 +1,15 @@
+
+/* .container{
+    padding: 20px;
+    color: cornsilk;
+} */
+.row h5 {
+    font-size: inherit;
+    font-size: 10px;
+}
+.foooter{
+    display: block;
+    clear: both;
+    background-color: rgba(27, 22, 20, 0.897);
+    height: 50px;
+}
